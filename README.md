@@ -13,5 +13,7 @@ Interests: AI/ML, Data Structures & Algorithms
 ------------------------------------------------------------------------------------------------------------------------------------
 This is my first CLI push to GitHub!
 
+This line will cause a conflict in the file.
+
 
 This is the conflicting line from main.
