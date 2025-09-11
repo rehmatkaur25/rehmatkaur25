@@ -10,6 +10,7 @@ Languages: Java, C++, Python
 Tools: Jupyter Notebook, VS Code, google colab
 
 Interests: AI/ML, Data Structures & Algorithms
-
+------------------------------------------------------------------------------------------------------------------------------------
+This is my first CLI push to GitHub!
 
 
